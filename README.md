@@ -1,7 +1,9 @@
-# O_O
+# Curl ASCII Art
 
-This Repo makes it so whenever you type,
+This repository has tons of diffrent ASCII art that you can print within your command line. Just type:
 
 curl https://raw.githubusercontent.com/Left-My-Game/O_O/refs/heads/main/O_O.txt
 
-inside your command prompt it shows a big ASCII version of the classic O_O face. As far as i know this only works on windows devices but it could work on linux or/and mac.
+And replace the O_O.txt with any other txt files in this repository, just note the README.md doesnt count or work.
+
+*Note that this may not work on apple or linux, you'll have to test it out.
